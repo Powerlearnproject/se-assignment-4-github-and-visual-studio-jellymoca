@@ -129,7 +129,7 @@ This command pushes the new-feature branch to the remote repository on GitHub. �
 *git branch -d new-feature*
 *git push origin --delete new-feature*
 
-![Git Branching](https://templates.visual-paradigm.com/repository/images/a877be7b-188a-465f-98b9-2600fe1547fd.png)
+![Git Branching](https://miro.medium.com/v2/resize:fit:625/1*9YsM1sNaQQut7-GDcuHKBg.png)
 
 Example of Branching Workflow
 Create branch 🌿: git checkout -b new-feature
@@ -153,7 +153,7 @@ How Pull Requests Facilitate Code Reviews and Collaboration 🌟
 1. Documentation: Pull requests document the history of changes and discussions, providing context for future reference.
 1. Continuous Integration: They often trigger automated tests and continuous integration pipelines to ensure that changes do not break the project.
 
-![Pull request](https://www.researchgate.net/profile/Mateus-Santos-19/publication/326295010/figure/fig1/AS:646795940069388@1531219577548/GitHub-Pull-request-flow.png)
+![Pull request](https://www.earthdatascience.org/images/earth-analytics/git-version-control/github-create-new-pull-request.png)
 
 Steps to Create and Review a Pull Request 📝
 1. Create a Pull Request
@@ -207,7 +207,7 @@ Step-by-Step Example:
 Create a Workflow File
 Create a .github/workflows/main.yml file in your repository with the following content:
 
-![Actions](../se-assignment-4-github-and-visual-studio-jellymoca/act.png)
+![Actions](act.png)
 
 Explanation:
 name: Specifies the name of the workflow.
